@@ -64,66 +64,66 @@ namespace MasterNet.Persistence.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("25d38a2f-b098-4ad9-a9fe-b419d687e87a"),
-                            Descripcion = "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-                            FechaPublicacion = new DateTime(2025, 1, 30, 22, 37, 16, 889, DateTimeKind.Utc).AddTicks(7253),
-                            Titulo = "Incredible Steel Shirt"
+                            Id = new Guid("d7cbdd54-1a57-43e4-8be4-532c3e430497"),
+                            Descripcion = "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+                            FechaPublicacion = new DateTime(2025, 2, 5, 12, 4, 3, 830, DateTimeKind.Utc).AddTicks(4094),
+                            Titulo = "Gorgeous Frozen Chips"
                         },
                         new
                         {
-                            Id = new Guid("4d60003f-9765-4e2e-bfb4-21a0c0b72a5c"),
-                            Descripcion = "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-                            FechaPublicacion = new DateTime(2025, 1, 30, 22, 37, 16, 889, DateTimeKind.Utc).AddTicks(7268),
-                            Titulo = "Rustic Frozen Gloves"
+                            Id = new Guid("48edaf40-a2a2-4450-97f1-c1bdf0a4a0ac"),
+                            Descripcion = "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+                            FechaPublicacion = new DateTime(2025, 2, 5, 12, 4, 3, 830, DateTimeKind.Utc).AddTicks(4126),
+                            Titulo = "Incredible Wooden Chips"
                         },
                         new
                         {
-                            Id = new Guid("43777e34-04f7-4e7f-97e6-e18f5309d01b"),
-                            Descripcion = "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-                            FechaPublicacion = new DateTime(2025, 1, 30, 22, 37, 16, 889, DateTimeKind.Utc).AddTicks(7281),
-                            Titulo = "Intelligent Rubber Shoes"
-                        },
-                        new
-                        {
-                            Id = new Guid("2b5a94c0-62a8-4ac1-a30c-7a4b3d52c8a8"),
-                            Descripcion = "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-                            FechaPublicacion = new DateTime(2025, 1, 30, 22, 37, 16, 889, DateTimeKind.Utc).AddTicks(7290),
-                            Titulo = "Rustic Soft Soap"
-                        },
-                        new
-                        {
-                            Id = new Guid("94611726-2d02-49e0-9a22-5b4d92c35b1d"),
-                            Descripcion = "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-                            FechaPublicacion = new DateTime(2025, 1, 30, 22, 37, 16, 889, DateTimeKind.Utc).AddTicks(7308),
-                            Titulo = "Awesome Soft Chicken"
-                        },
-                        new
-                        {
-                            Id = new Guid("2c3fbfe2-30bb-4898-afd4-adcb846a7880"),
-                            Descripcion = "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-                            FechaPublicacion = new DateTime(2025, 1, 30, 22, 37, 16, 889, DateTimeKind.Utc).AddTicks(7317),
-                            Titulo = "Handcrafted Rubber Bacon"
-                        },
-                        new
-                        {
-                            Id = new Guid("7eb6ec6b-9f1f-4956-8e96-f97058f47850"),
+                            Id = new Guid("baf4e67e-b7c7-40d1-9ada-0a40e54ed0ec"),
                             Descripcion = "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-                            FechaPublicacion = new DateTime(2025, 1, 30, 22, 37, 16, 889, DateTimeKind.Utc).AddTicks(7326),
-                            Titulo = "Intelligent Metal Computer"
+                            FechaPublicacion = new DateTime(2025, 2, 5, 12, 4, 3, 830, DateTimeKind.Utc).AddTicks(4148),
+                            Titulo = "Practical Fresh Ball"
                         },
                         new
                         {
-                            Id = new Guid("318e3eb2-db6d-4c28-a3f0-de9c88818aa0"),
-                            Descripcion = "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-                            FechaPublicacion = new DateTime(2025, 1, 30, 22, 37, 16, 889, DateTimeKind.Utc).AddTicks(7334),
-                            Titulo = "Handcrafted Steel Shoes"
+                            Id = new Guid("dadb48cd-303f-4a35-b994-0f4c6e9f36c3"),
+                            Descripcion = "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+                            FechaPublicacion = new DateTime(2025, 2, 5, 12, 4, 3, 830, DateTimeKind.Utc).AddTicks(4180),
+                            Titulo = "Rustic Cotton Car"
                         },
                         new
                         {
-                            Id = new Guid("a24c1eb0-217a-4feb-a4c6-7010e7ed05d4"),
+                            Id = new Guid("4d0b30cf-3602-43c3-a14b-59d4e124bed4"),
+                            Descripcion = "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+                            FechaPublicacion = new DateTime(2025, 2, 5, 12, 4, 3, 830, DateTimeKind.Utc).AddTicks(4201),
+                            Titulo = "Small Cotton Shoes"
+                        },
+                        new
+                        {
+                            Id = new Guid("5c8318c5-9115-44b2-a689-f80cc49cb7ef"),
                             Descripcion = "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-                            FechaPublicacion = new DateTime(2025, 1, 30, 22, 37, 16, 889, DateTimeKind.Utc).AddTicks(7341),
-                            Titulo = "Rustic Frozen Sausages"
+                            FechaPublicacion = new DateTime(2025, 2, 5, 12, 4, 3, 830, DateTimeKind.Utc).AddTicks(4222),
+                            Titulo = "Rustic Plastic Car"
+                        },
+                        new
+                        {
+                            Id = new Guid("ff703577-bf04-4e16-8eb8-273d188aa383"),
+                            Descripcion = "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+                            FechaPublicacion = new DateTime(2025, 2, 5, 12, 4, 3, 830, DateTimeKind.Utc).AddTicks(4241),
+                            Titulo = "Tasty Wooden Computer"
+                        },
+                        new
+                        {
+                            Id = new Guid("e0b0e3e5-dd8b-41ca-93c2-08fd8244f509"),
+                            Descripcion = "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+                            FechaPublicacion = new DateTime(2025, 2, 5, 12, 4, 3, 830, DateTimeKind.Utc).AddTicks(4275),
+                            Titulo = "Handmade Plastic Car"
+                        },
+                        new
+                        {
+                            Id = new Guid("4ec23f6e-af78-41ca-b770-080a4d089724"),
+                            Descripcion = "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+                            FechaPublicacion = new DateTime(2025, 2, 5, 12, 4, 3, 830, DateTimeKind.Utc).AddTicks(4295),
+                            Titulo = "Rustic Granite Pizza"
                         });
                 });
 
@@ -179,73 +179,73 @@ namespace MasterNet.Persistence.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("3aec4189-12be-41f1-a775-5849c34eecd5"),
-                            Apellidos = "Johnston",
-                            Grado = "Global Factors Orchestrator",
-                            Nombre = "Manuel"
+                            Id = new Guid("0308ae7f-46c3-41d3-a807-99b6e5990667"),
+                            Apellidos = "Parker",
+                            Grado = "District Mobility Administrator",
+                            Nombre = "Marilyne"
                         },
                         new
                         {
-                            Id = new Guid("69dec9e6-10b7-480d-96f0-e320bc21c5ad"),
-                            Apellidos = "Reichel",
-                            Grado = "Central Factors Associate",
-                            Nombre = "Percival"
-                        },
-                        new
-                        {
-                            Id = new Guid("8be6d24c-036c-4b86-98f1-7675371f780a"),
-                            Apellidos = "Stark",
-                            Grado = "International Response Analyst",
-                            Nombre = "Trevor"
-                        },
-                        new
-                        {
-                            Id = new Guid("b08e58f7-9e7b-47c9-819c-c5f1715e69a9"),
-                            Apellidos = "Stanton",
-                            Grado = "Product Configuration Director",
-                            Nombre = "Bernice"
-                        },
-                        new
-                        {
-                            Id = new Guid("c6af47d5-5b3a-4051-9f6b-179f6ae81017"),
+                            Id = new Guid("79fe0fb5-9573-4907-ae90-f80fe83d05ff"),
                             Apellidos = "Dach",
-                            Grado = "Internal Creative Consultant",
-                            Nombre = "Adrien"
+                            Grado = "Central Accounts Designer",
+                            Nombre = "Thora"
                         },
                         new
                         {
-                            Id = new Guid("d637e01a-f47b-4598-a8da-1dd5c7623f65"),
-                            Apellidos = "Bartoletti",
-                            Grado = "Legacy Interactions Analyst",
-                            Nombre = "Blaise"
+                            Id = new Guid("b5ecb3dc-a674-4465-9b99-c5c0f79be09b"),
+                            Apellidos = "Heidenreich",
+                            Grado = "International Integration Analyst",
+                            Nombre = "Reilly"
                         },
                         new
                         {
-                            Id = new Guid("6f826310-ff45-47d8-bee1-e2b5e82cee3c"),
-                            Apellidos = "Schneider",
-                            Grado = "Regional Implementation Associate",
-                            Nombre = "Casandra"
+                            Id = new Guid("24dba6f8-05cc-4b10-83ae-7cbf6d1cd560"),
+                            Apellidos = "Oberbrunner",
+                            Grado = "Global Quality Representative",
+                            Nombre = "Brown"
                         },
                         new
                         {
-                            Id = new Guid("8635551b-6ebc-40a1-9cb7-b4e7f59f2a7e"),
-                            Apellidos = "Smitham",
-                            Grado = "Direct Division Liaison",
-                            Nombre = "Patrick"
+                            Id = new Guid("e150720f-4017-4064-91a0-ef950ec0f803"),
+                            Apellidos = "Rempel",
+                            Grado = "Global Branding Facilitator",
+                            Nombre = "Eulalia"
                         },
                         new
                         {
-                            Id = new Guid("7623e4b0-cb07-4504-8979-204d6a9f40c6"),
-                            Apellidos = "Stoltenberg",
-                            Grado = "Dynamic Directives Producer",
-                            Nombre = "Maximilian"
+                            Id = new Guid("990a900e-6881-4e19-b86b-2484ece98968"),
+                            Apellidos = "Kessler",
+                            Grado = "Regional Functionality Director",
+                            Nombre = "Theodora"
                         },
                         new
                         {
-                            Id = new Guid("b289ab76-fe39-4f2a-9f43-316be148c271"),
-                            Apellidos = "Wiza",
-                            Grado = "Dynamic Group Architect",
-                            Nombre = "Nikolas"
+                            Id = new Guid("fe1c0187-24f2-4cfa-9c8d-3efae54398eb"),
+                            Apellidos = "Hand",
+                            Grado = "International Applications Engineer",
+                            Nombre = "Micheal"
+                        },
+                        new
+                        {
+                            Id = new Guid("872ceb10-626c-4743-b337-77354ca44c7d"),
+                            Apellidos = "Bruen",
+                            Grado = "Lead Quality Developer",
+                            Nombre = "Garrison"
+                        },
+                        new
+                        {
+                            Id = new Guid("c4d1cc44-9fe2-42f8-8916-2502ce9360b0"),
+                            Apellidos = "Ratke",
+                            Grado = "Forward Solutions Developer",
+                            Nombre = "Keely"
+                        },
+                        new
+                        {
+                            Id = new Guid("dc80f6d5-b474-4a67-af86-4b3d53ff7225"),
+                            Apellidos = "Bauch",
+                            Grado = "Lead Security Strategist",
+                            Nombre = "Sam"
                         });
                 });
 
@@ -293,7 +293,7 @@ namespace MasterNet.Persistence.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("0ed4c92e-c522-4cd0-b037-64c1d64ce2b7"),
+                            Id = new Guid("9a58b053-a7dc-4d7b-9fbb-b9ea4279031b"),
                             Nombre = "Precio Regular",
                             PrecioActual = 10.0m,
                             PrecioPromocion = 8.0m
@@ -398,13 +398,13 @@ namespace MasterNet.Persistence.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "6de68f48-cda9-4e64-95f0-d8748b11f2c4",
+                            Id = "d2350e4a-d246-4291-ae3e-f9d0a9ac92b9",
                             Name = "ADMIN",
                             NormalizedName = "ADMIN"
                         },
                         new
                         {
-                            Id = "d5e912be-c4d6-4db9-924f-4fa395ec7bf8",
+                            Id = "ec88b3d8-b16d-45b1-841a-06f786fe7ab7",
                             Name = "CLIENT",
                             NormalizedName = "CLIENT"
                         });
@@ -438,98 +438,98 @@ namespace MasterNet.Persistence.Migrations
                             Id = 1,
                             ClaimType = "POLICIES",
                             ClaimValue = "CURSO_READ",
-                            RoleId = "6de68f48-cda9-4e64-95f0-d8748b11f2c4"
+                            RoleId = "d2350e4a-d246-4291-ae3e-f9d0a9ac92b9"
                         },
                         new
                         {
                             Id = 2,
                             ClaimType = "POLICIES",
                             ClaimValue = "CURSO_UPDATE",
-                            RoleId = "6de68f48-cda9-4e64-95f0-d8748b11f2c4"
+                            RoleId = "d2350e4a-d246-4291-ae3e-f9d0a9ac92b9"
                         },
                         new
                         {
                             Id = 3,
                             ClaimType = "POLICIES",
                             ClaimValue = "CURSO_WRITE",
-                            RoleId = "6de68f48-cda9-4e64-95f0-d8748b11f2c4"
+                            RoleId = "d2350e4a-d246-4291-ae3e-f9d0a9ac92b9"
                         },
                         new
                         {
                             Id = 4,
                             ClaimType = "POLICIES",
                             ClaimValue = "CURSO_DELETE",
-                            RoleId = "6de68f48-cda9-4e64-95f0-d8748b11f2c4"
+                            RoleId = "d2350e4a-d246-4291-ae3e-f9d0a9ac92b9"
                         },
                         new
                         {
                             Id = 5,
                             ClaimType = "POLICIES",
                             ClaimValue = "INSTRUCTOR_CREATE",
-                            RoleId = "6de68f48-cda9-4e64-95f0-d8748b11f2c4"
+                            RoleId = "d2350e4a-d246-4291-ae3e-f9d0a9ac92b9"
                         },
                         new
                         {
                             Id = 6,
                             ClaimType = "POLICIES",
                             ClaimValue = "INSTRUCTOR_READ",
-                            RoleId = "6de68f48-cda9-4e64-95f0-d8748b11f2c4"
+                            RoleId = "d2350e4a-d246-4291-ae3e-f9d0a9ac92b9"
                         },
                         new
                         {
                             Id = 7,
                             ClaimType = "POLICIES",
                             ClaimValue = "INSTRUCTOR_UPDATE",
-                            RoleId = "6de68f48-cda9-4e64-95f0-d8748b11f2c4"
+                            RoleId = "d2350e4a-d246-4291-ae3e-f9d0a9ac92b9"
                         },
                         new
                         {
                             Id = 8,
                             ClaimType = "POLICIES",
                             ClaimValue = "COMENTARIO_READ",
-                            RoleId = "6de68f48-cda9-4e64-95f0-d8748b11f2c4"
+                            RoleId = "d2350e4a-d246-4291-ae3e-f9d0a9ac92b9"
                         },
                         new
                         {
                             Id = 9,
                             ClaimType = "POLICIES",
                             ClaimValue = "COMENTARIO_DELETE",
-                            RoleId = "6de68f48-cda9-4e64-95f0-d8748b11f2c4"
+                            RoleId = "d2350e4a-d246-4291-ae3e-f9d0a9ac92b9"
                         },
                         new
                         {
                             Id = 10,
                             ClaimType = "POLICIES",
                             ClaimValue = "COMENTARIO_CREATE",
-                            RoleId = "6de68f48-cda9-4e64-95f0-d8748b11f2c4"
+                            RoleId = "d2350e4a-d246-4291-ae3e-f9d0a9ac92b9"
                         },
                         new
                         {
                             Id = 11,
                             ClaimType = "POLICIES",
                             ClaimValue = "CURSO_READ",
-                            RoleId = "d5e912be-c4d6-4db9-924f-4fa395ec7bf8"
+                            RoleId = "ec88b3d8-b16d-45b1-841a-06f786fe7ab7"
                         },
                         new
                         {
                             Id = 12,
                             ClaimType = "POLICIES",
                             ClaimValue = "INSTRUCTOR_READ",
-                            RoleId = "d5e912be-c4d6-4db9-924f-4fa395ec7bf8"
+                            RoleId = "ec88b3d8-b16d-45b1-841a-06f786fe7ab7"
                         },
                         new
                         {
                             Id = 13,
                             ClaimType = "POLICIES",
                             ClaimValue = "COMENTARIO_READ",
-                            RoleId = "d5e912be-c4d6-4db9-924f-4fa395ec7bf8"
+                            RoleId = "ec88b3d8-b16d-45b1-841a-06f786fe7ab7"
                         },
                         new
                         {
                             Id = 14,
                             ClaimType = "POLICIES",
                             ClaimValue = "COMENTARIO_CREATE",
-                            RoleId = "d5e912be-c4d6-4db9-924f-4fa395ec7bf8"
+                            RoleId = "ec88b3d8-b16d-45b1-841a-06f786fe7ab7"
                         });
                 });
 
