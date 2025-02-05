@@ -1,6 +1,6 @@
 namespace MasterNet.Domain;
 
-public static class CustomClaims 
+public static class CustomClaims
 {
-    public const string  POLICIES = nameof(POLICIES);
+    public const string POLICIES = nameof(POLICIES);
 }
